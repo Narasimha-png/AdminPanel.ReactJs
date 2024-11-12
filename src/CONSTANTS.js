@@ -1,0 +1,1 @@
+export const POST_OPENINGS = "http://localhost:4000/apis/v1/carreer/postopening" ;

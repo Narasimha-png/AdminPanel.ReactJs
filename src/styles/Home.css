@@ -1,0 +1,28 @@
+.display-div{
+    width: fit-content;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    border: 1px solid lightgray;
+
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem 5vw;
+    border-bottom: 1px solid lightgrey;
+}
+nav>img{
+    width: 35px;
+    height: 35px;
+}
+.body-div{
+    padding: 1rem 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}

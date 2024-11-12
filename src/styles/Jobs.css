@@ -1,0 +1,49 @@
+label{
+    padding: 5px;
+    font-size: 20px;
+}
+.jobpost-form>div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+input , textarea, select {
+    padding: 10px; 
+    font-size: 17px;
+}
+.inp-large{
+    height: 400px;
+}
+.jobpost-form{
+    padding: 1vh 10vw ;
+}
+.cancel-logo{
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+}
+.cancel-skill{
+    display: flex;
+    width: fit-content;
+    gap: 10px;
+    border: 1px solid lightgray;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.skillname{
+    font-size: 15px;
+    font-weight: 600 ;
+}
+#skill-box {
+    display: flex;
+    
+}
+.skill-div{
+    display: flex;
+}
+.add-skill{
+    padding: 10px 20px;
+    width: 10vw;
+}

@@ -1,0 +1,82 @@
+label {
+  padding: 5px;
+  font-size: 20px;
+}
+
+.jobpost-form > div {
+  flex-direction: column;
+  gap: 10px;
+  display: flex;
+}
+
+input, textarea, select {
+  padding: 10px;
+  font-size: 17px;
+}
+
+.inp-large {
+  height: 400px;
+}
+
+.jobpost-form {
+  padding: 1vh 10vw;
+}
+
+.cancel-logo {
+  cursor: pointer;
+  width: 10px;
+  height: 10px;
+}
+
+.cancel-skill {
+  border: 1px solid #d3d3d3;
+  gap: 10px;
+  width: fit-content;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+}
+
+.skillname {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+#skill-box, .skill-div {
+  display: flex;
+}
+
+.add-skill {
+  width: 10vw;
+  padding: 10px 20px;
+}
+
+.display-div {
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid #d3d3d3;
+  width: 200px;
+  height: 200px;
+}
+
+nav {
+  border-bottom: 1px solid #d3d3d3;
+  align-items: center;
+  gap: 2rem;
+  padding: 1rem 5vw;
+  display: flex;
+}
+
+nav > img {
+  width: 35px;
+  height: 35px;
+}
+
+.body-div {
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 5vw;
+  display: flex;
+}
+/*# sourceMappingURL=app.8a0b9407.css.map */
